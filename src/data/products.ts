@@ -27,7 +27,7 @@ export const products = [
     category: "Beverages",
     description:
       "Handpicked from sustainable tea farms, this organic green tea is rich in antioxidants and delivers a refreshing, earthy flavor. Ideal for detox, weight management, and a calming daily ritual.",
-    image: "/teaa.jpeg",
+    image: "/greentea.jpeg",
     price: "₹299",
     features: ["Antioxidant-rich", "Handpicked", "No chemicals"],
     nutrition: {
